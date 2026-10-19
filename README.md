@@ -20,7 +20,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 - [Text and writing](#text-and-writing)
 - [Developer and data tools](#developer-and-data-tools)
 - [Design resources and everyday utilities](#design-resources-and-everyday-utilities)
-- [Contributing](#contributing)
+- [Maintenance](#maintenance)
 
 ## Image compression
 
@@ -176,16 +176,10 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 | Pomofocus | Run focus sessions with a configurable Pomodoro timer. | [pomofocus.io](https://pomofocus.io/) |
 | World Time Buddy | Compare time zones and find suitable meeting times. | [worldtimebuddy.com](https://www.worldtimebuddy.com/) |
 
-## Contributing
+## Maintenance
 
-Know a useful browser tool, found a broken link, or spotted an inaccurate description? Open an issue or send a pull request.
+This directory is maintained by CompressFly. Tool listings and descriptions are selected and updated by the maintainer.
 
-- Add the tool to the most relevant category, using a direct link to its official page.
-- Write one short, factual English description of what the tool does.
-- Include tools that are free or have a free tier useful for completing a real task. Mention important limits where relevant.
-- Disclose your relationship to a tool if you own it or work on it.
-- Avoid duplicate entries, shortened URLs, tracking parameters, and unsupported claims about privacy or output quality.
-
-Suggestions are reviewed for relevance and are not automatically accepted. Linked services are maintained by their respective providers.
+Linked services are maintained by their respective providers.
 
 Last updated: 2026-10-19.
