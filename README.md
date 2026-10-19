@@ -2,7 +2,7 @@
 
 A practical collection of online tools for working with images, PDFs, GIFs, video, text, and data, plus useful design and everyday utilities.
 
-**104 tools across 10 categories.** Browse by task and follow the official tool link.
+**109 tools across 10 categories.** Browse by task and follow the official tool link.
 
 Maintained by [CompressFly](https://compressfly.com/). This directory includes our own tools, labeled CompressFly, alongside tools from other providers.
 
@@ -34,6 +34,9 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 | CompressFly Compress PNG | Reduce the file size of PNG images. | [compressfly.com](https://compressfly.com/compress-image/compress-png) |
 | JPEG Optimizer | Compress and resize images with controls for quality and dimensions. | [jpeg-optimizer.com](https://jpeg-optimizer.com/) |
 | CompressFly Compress WebP | Reduce the size of WebP image files. | [compressfly.com](https://compressfly.com/compress-image/compress-webp) |
+| HiCompress Image Compressor | Batch-compress JPG, PNG, WebP, GIF, and BMP images. | [hicompress.com](https://hicompress.com/compress-image) |
+| Imgdiet Image Compressor | Reduce image file sizes with batch compression. | [imgdiet.com](https://www.imgdiet.com/compress) |
+| Imgdiet Resize Image to KB | Compress images to a target file size in KB or MB. | [imgdiet.com](https://www.imgdiet.com/resize-image-to-kb) |
 
 ## Image format conversion
 
@@ -49,6 +52,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 | Online-Convert | Convert files between image, document, audio, and video formats. | [online-convert.com](https://www.online-convert.com/) |
 | CompressFly JPG to WebP | Create WebP images from JPEG files. | [compressfly.com](https://compressfly.com/convert-image/jpg-to-webp) |
 | CompressFly JPG to PNG | Convert JPEG images to PNG. | [compressfly.com](https://compressfly.com/convert-image/jpg-to-png) |
+| HiCompress Image Converter | Batch-convert images between common formats. | [hicompress.com](https://hicompress.com/convert) |
 
 ## Image editing and design
 
@@ -98,6 +102,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 | PDF to Text | Extract text from PDF documents into plain-text files. | [pdftotext.com](https://pdftotext.com/) |
 | CompressFly PNG to PDF | Create a PDF document from PNG images. | [compressfly.com](https://compressfly.com/pdf-tools/png-to-pdf) |
 | CompressFly Extract Text from PDF | Copy or save text contained in a PDF. | [compressfly.com](https://compressfly.com/pdf-tools/extract-text-from-pdf) |
+| Imgdiet PDF to JPG | Convert PDF pages to JPG images. | [imgdiet.com](https://www.imgdiet.com/pdf-to-jpg) |
 
 ## GIF creation and editing
 
