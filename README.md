@@ -58,6 +58,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 
 | Tool | What it does | Link |
 | --- | --- | --- |
+| TeslaWraps | Design custom Tesla Paint Shop wraps in the browser with 3D preview; core editing + PNG export free without an account. | [teslawraps.design](https://teslawraps.design) |
 | Photopea | Edit layered images and PSD files in an online image editor. | [photopea.com](https://www.photopea.com/) |
 | CompressFly Resize Image | Change image dimensions for a website, document, or social post. | [compressfly.com](https://compressfly.com/edit-image/resize-image) |
 | Pixlr | Edit photos and apply creative effects; some features use paid plans. | [pixlr.com](https://pixlr.com/) |
